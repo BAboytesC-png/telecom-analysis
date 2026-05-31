@@ -153,10 +153,4 @@ pip install pandas numpy matplotlib seaborn
  ┃ ┗ usage.csv
  ┣ 📓 S7_Version-Estudiante-Project-ConnectaTel.ipynb
  ┗ 📄 README.md
-```
 
----
-
-## 👤 Autor
-
-Proyecto desarrollado como parte del Sprint 7 del programa de Análisis de Datos.
