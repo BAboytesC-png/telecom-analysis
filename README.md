@@ -88,8 +88,22 @@ Conclusiones clave traducidas al lenguaje de negocio:
   - Reporte al área de Arquitectura de Datos para corregir la captura de edades `-999` y fechas futuras `2026`.
 
 ---
+## 📊 Visualizaciones
 
+### Distribución de minutos por plan
 ![Histograma de minutos de llamada por plan](png/Histograma_cant_minutos_llamada.png)
+
+### Segmentación por grupo de uso
+
+![Segmentación uso](png/grupo_uso.png)
+![Segmentación uso](png/grupo_edad.png)
+
+### Boxplot de outliers
+![Boxplot](png/Boxplot_age-cant_mensajes.png)
+![Boxplot](png/Boxplot_cant_llamadas-minutos&Insights.png)
+
+![](png/Countplot_de_grupo_edad_por_plan.png)
+![](png/Countplot_de_grupo_uso_por_plan.png)
 
 
 
