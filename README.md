@@ -89,6 +89,10 @@ Conclusiones clave traducidas al lenguaje de negocio:
 
 ---
 
+![Histograma de minutos de llamada por plan](png/Histograma_cant_minutos_llamada.png)
+
+
+
 ## ⚙️ Requisitos
 
 ```bash
