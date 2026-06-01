@@ -151,6 +151,10 @@ pip install pandas numpy matplotlib seaborn
  ┃ ┣ plans.csv
  ┃ ┣ users_latam.csv
  ┃ ┗ usage.csv
- ┣ 📓 S7_Version-Estudiante-Project-ConnectaTel.ipynb
+ ┣ 📂 datasets_clean/
+ ┃ ┣ plans_clean.csv
+ ┃ ┣ users_latam_clean.csv
+ ┃ ┗ usage_clean.csv
+ ┣ 📓 S7-Project-ConnectaTel.ipynb
  ┗ 📄 README.md
 
